@@ -3,7 +3,7 @@ import './Header.css';
 
 const HeaderContent = () => {
     return (
-        <p>This is stuff that is really cool and helpful for coding since we can reuse all the components in the app. Way to go React!</p>
+        <p>Let's learn React by building simple interfaces with components. Don't try to overthink it, just keep it simple and have fun. Once you feel comfortable using components you are well on your way to mastering React!</p>
     );
 };
 

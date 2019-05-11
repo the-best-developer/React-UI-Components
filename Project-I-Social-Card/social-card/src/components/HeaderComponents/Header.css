@@ -1,1 +1,39 @@
 /* All styles for your header Components live here */
+
+header{ 
+    display: flex;
+    flex-direction: row;
+    padding: 20px 10px 0 10px;
+}
+
+.headerContent {
+    width: 90%;
+    margin-left: auto;
+}
+
+.headerContainer {
+    width: 100%;
+}
+
+.headerTitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.headerTitle h1 {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.headerTitle span {
+    color: grey;
+    margin-left: 10px;
+}
+
+.imgThumb {
+    width: 10%;
+    height: 50px;
+    margin-right: 10px;
+}
